@@ -129,8 +129,8 @@ func main() {
 	}()
 
 	// Replace these with your own values
-	apiToken := "5185078921:AAHiAV-xaDHa5UGBbQI91KjdlYxk5emlvso"
-	chatID := int64(434057604)
+	apiToken := "51854358921:AgfdiAV-xagfd233UGBbQI9ggf43lYxk5emlvso"
+	chatID := int64(43543552)
 	message := "Hello, world!"
 
 	err := sendMessage(apiToken, chatID, message)
